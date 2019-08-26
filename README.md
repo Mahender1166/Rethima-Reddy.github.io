@@ -1,4 +1,4 @@
-///# Rethima-Reddy.github.io
+
 # DATA BASE
 
 <img src="data1.jpg" alt="data base logo" height="250" weidth="250" >
