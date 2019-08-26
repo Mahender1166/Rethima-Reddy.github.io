@@ -3,11 +3,9 @@
 <img src="data1.jpg" alt="data base logo" height="500" weidth="300" >
 
 ## Contents
-<ul>
-  <li>Introduction to Database</li>
-  <li>Advantages of DataBase</li>
-  <li>Disadvantages of DataBase</li>
-</ul>
+- Introduction to Database
+- Advantages of DataBase
+- Disadvantages of DataBase
 
 ## Introduction to database
 <p>
@@ -20,23 +18,22 @@ Computer scientists may classify database-management systems according to the da
 
 
 ## Advantages of DataBase 
-<img src="advantages.jpg" alt="advantages image" height="200" weidth="200" >
-<ol type="a">
-  <li>Reduced data redundancy</li>
-  <li>Reduced updating errors and increased consistency</li>
-  <li>Greater data integrity and independence from applications programs</li>
-  <li>Improved data access to users through use of host and query languages</li>
-  <li>Improved data security</li>
-  <li> Facilitated development of new applications program </li>
-  <li>  Reduced data entry, storage, and retrieval costs</li>
-</ol>
+<img src="advantages.jpg" alt="advantages image" height="200" weidth="200" align="center" >
+
+  a. Reduced data redundancy</li>
+  b. Reduced updating errors and increased consistency</li>
+  c. Greater data integrity and independence from applications programs</li>
+  d. Improved data access to users through use of host and query languages</li>
+  e. Improved data security</li>
+  f. Facilitated development of new applications program </li>
+  g. Reduced data entry, storage, and retrieval costs</li>
+
 
 ## Disadvantages of DataBase
-<img src="disadvantages.jpg" alt="advantages image" height="200" weidth="200" >
-<ol type="a">
-  <li> Database systems are complex, difficult, and time-consuming to design </li>
-  <li> Substantial hardware and software start-up costs</li>
-  <li> Damage to database affects virtually all applications programs</li>
-  <li> Extensive conversion costs in moving form a file-based system to a database system</li>
-  <li> Initial training required for all programmers and users</li>
-</ol>
+<img src="disadvantages.jpg" alt="advantages image" height="200" weidth="200" align="center" >
+  a. Database systems are complex, difficult, and time-consuming to design 
+  b. Substantial hardware and software start-up costs
+  c. Damage to database affects virtually all applications programs
+  d. Extensive conversion costs in moving form a file-based system to a database system
+  e.Initial training required for all programmers and users
+
