@@ -19,7 +19,7 @@ Computer scientists may classify database-management systems according to the da
 
 
 ## Advantages of DataBase 
-<img src="advantages.jpg" alt="advantages image" height="200" weidth="200" align="center" >
+<img src="advantages.jpg" alt="advantages image" height="200" weidth="200" align="center" > <br>
 
   a. Reduced data redundancy<br>
   b. Reduced updating errors and increased consistency<br>
@@ -31,7 +31,7 @@ Computer scientists may classify database-management systems according to the da
 
 
 ## Disadvantages of DataBase
-<img src="disadvantages.jpg" alt="advantages image" height="200" weidth="200" align="center" >
+<img src="disadvantages.jpg" alt="advantages image" height="200" weidth="200" align="center" ><br>
   a. Database systems are complex, difficult, and time-consuming to design <br>
   b. Substantial hardware and software start-up costs<br>
   c. Damage to database affects virtually all applications programs<br>
