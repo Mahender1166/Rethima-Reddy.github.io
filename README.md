@@ -36,7 +36,7 @@ Computer scientists may classify database-management systems according to the da
   b. Substantial hardware and software start-up costs<br>
   c. Damage to database affects virtually all applications programs<br>
   d. Extensive conversion costs in moving form a file-based system to a database system<br>
-  e.Initial training required for all programmers and users<br>
+  e. Initial training required for all programmers and users<br>
 
 ## Refernces
 - [Code Reference](https://www.w3schools.com/html/html_lists.asp)
