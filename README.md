@@ -1,15 +1,15 @@
 # Rethima-Reddy.github.io
-## DATA BASE
+# DATA BASE
 <img src="data1.jpg" alt="data base logo" height="500" weidth="300" >
 
-### Contents
+## Contents
 <ul>
   <li>Introduction to Database</li>
   <li>Advantages of DataBase</li>
   <li>Disadvantages of DataBase</li>
 </ul>
 
-### Introduction to database
+## Introduction to database
 <p>
   A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
 
@@ -19,7 +19,7 @@ Computer scientists may classify database-management systems according to the da
 </p>
 
 
-### Advantages of DataBase 
+## Advantages of DataBase 
 <img src="advantages.jpg" alt="advantages image" height="200" weidth="200" >
 <ol type="a">
   <li>Reduced data redundancy</li>
@@ -31,7 +31,7 @@ Computer scientists may classify database-management systems according to the da
   <li>  Reduced data entry, storage, and retrieval costs</li>
 </ol>
 
-### Disadvantages of DataBase
+## Disadvantages of DataBase
 <img src="disadvantages.jpg" alt="advantages image" height="200" weidth="200" >
 <ol type="a">
   <li> Database systems are complex, difficult, and time-consuming to design </li>
