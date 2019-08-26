@@ -1,5 +1,5 @@
 
-# DATA BASE
+<h1 align="center"> DATABASE</h1>
 
 <img src="data1.jpg" alt="data base logo" height="250" weidth="250" >
 
