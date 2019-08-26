@@ -11,17 +11,17 @@
 ## Introduction to database
 <p>
   A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.</p>
+  <img src="image2.jpg" alt="data base logo" height="100" weidth="100" >
 <p>
 The database management system (DBMS) is the software that interacts with end users, applications, and the database itself to capture and analyze the data. The DBMS software additionally encompasses the core facilities provided to administer the database. The sum total of the database, the DBMS and the associated applications can be referred to as a "database system". Often the term "database" is also used to loosely refer to any of the DBMS, the database system or an application associated with the database.</p>
-<img src="data1.jpg" alt="data base logo" height="250" weidth="250" >
+
+<img src="image1.jpg" alt="data base logo" height="100" weidth="100" >
 <p>
 Computer scientists may classify database-management systems according to the database models that they support. Relational databases became dominant in the 1980s. These model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. In the 2000s, non-relational databases became popular, referred to as NoSQL because they use different query languages.
 </p>
 
 
 ## Advantages of DataBase 
-
-
   a. Reduced data redundancy<br>
   b. Reduced updating errors and increased consistency<br>
   c. Greater data integrity and independence from applications programs<br>
@@ -32,7 +32,6 @@ Computer scientists may classify database-management systems according to the da
 
 
 ## Disadvantages of DataBase
-
   a. Database systems are complex, difficult, and time-consuming to design <br>
   b. Substantial hardware and software start-up costs<br>
   c. Damage to database affects virtually all applications programs<br>
