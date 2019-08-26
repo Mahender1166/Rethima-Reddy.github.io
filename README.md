@@ -17,9 +17,10 @@ The database management system (DBMS) is the software that interacts with end us
 
 Computer scientists may classify database-management systems according to the database models that they support. Relational databases became dominant in the 1980s. These model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. In the 2000s, non-relational databases became popular, referred to as NoSQL because they use different query languages.
 </p>
-<img src="images.png" alt="advantages image" height="200" weidth="200" >
+
 
 ### Advantages of DataBase 
+<img src="advantages.jpg" alt="advantages image" height="200" weidth="200" >
 <ol type="a">
   <li>Reduced data redundancy</li>
   <li>Reduced updating errors and increased consistency</li>
@@ -31,6 +32,7 @@ Computer scientists may classify database-management systems according to the da
 </ol>
 
 ### Disadvantages of DataBase
+<img src="disadvantages.jpg" alt="advantages image" height="200" weidth="200" >
 <ol type="a">
   <li> Database systems are complex, difficult, and time-consuming to design </li>
   <li> Substantial hardware and software start-up costs</li>
