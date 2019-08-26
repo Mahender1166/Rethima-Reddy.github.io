@@ -1,13 +1,13 @@
 # Rethima-Reddy.github.io
-<h1 align="center" >DATA BASE</h1>
+## DATA BASE
 <img src="data1.jpg" alt="data base logo" height="500" weidth="300" >
-<h3>Contents</h3>
+### Contents
 <ul>
   <li>Introduction to Database</li>
   <li>Advantages of DataBase</li>
   <li>Disadvantages of DataBase</li>
 </ul>
-<h3> Introduction to database</h3>
+### Introduction to database
 <p>
   A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
 
@@ -16,7 +16,7 @@ The database management system (DBMS) is the software that interacts with end us
 Computer scientists may classify database-management systems according to the database models that they support. Relational databases became dominant in the 1980s. These model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. In the 2000s, non-relational databases became popular, referred to as NoSQL because they use different query languages.
 </p>
 <img src="images.png" alt="advantages image" height="200" weidth="200" >
-<h3> Advantages of DataBase </h3>
+### Advantages of DataBase 
 <ol type="a">
   <li>Reduced data redundancy</li>
   <li>Reduced updating errors and increased consistency</li>
@@ -26,7 +26,7 @@ Computer scientists may classify database-management systems according to the da
   <li> Facilitated development of new applications program </li>
   <li>  Reduced data entry, storage, and retrieval costs</li>
 </ol>
-<h3> Disadvantages of DataBase </h3>
+### Disadvantages of DataBase
 <ol type="a">
   <li> Database systems are complex, difficult, and time-consuming to design </li>
   <li> Substantial hardware and software start-up costs</li>
